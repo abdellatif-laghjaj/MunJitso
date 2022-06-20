@@ -1,4 +1,4 @@
-### 2years of just exploring without making a real projects yaaay
+### 2 years of just exploring without making a real projects yaaay
 
 
 - 🔭 I’m currently working on minecraft plugins..
