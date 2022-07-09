@@ -7,5 +7,5 @@ Hello I'm 16 yo teen, studying boring stuff at school, that's not I hate learnin
 - 👯 I’m looking to collaborate on.. n-nothing yet??
 - 🤔 I’m looking for help in Stackoverflow and i get inspired in github (imagine a person get inspired from a code rather than a the project itself).
 - 📫 How to reach me: u can't LMAO. ( there's a way )
-- 😄 Pronouns: i dont have a pronoun lol.
+- 😄 Pronouns: he/him.
 - ⚡ Fun fact: living isnt fun.
