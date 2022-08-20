@@ -1,4 +1,6 @@
 ![](img/camille-villanueva-zsAPsRjzXRI-unsplash.jpg)
+<h1 align="center">Hallo, MunJitso is here.</h1>
+<h3 align="center">An ambutious kid about everything related to IT</h3>
 
 ### 2 years of just exploring without making a real projects yaaay
 
