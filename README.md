@@ -13,4 +13,4 @@ Hello I'm 16 yo teen, studying boring stuff at school, that's not I hate learnin
 - ⚡ Fun fact: living isnt fun.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MunJitso)](https://github.com/anuraghazra/github-readme-stats)
-[![MunJitso's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=MunJitso&show_icons=true&locale=en&layout=compact)]
+![MunJitso's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=MunJitso&show_icons=true&locale=en&layout=compact)
