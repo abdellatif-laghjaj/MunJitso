@@ -16,10 +16,16 @@ Hello I'm 16 yo teen, studying boring stuff at school, that's not I hate learnin
 <h3 align="left">Stats: </h3>
 
 <p align="center">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MunJitso" alt="MUNJITSO"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MunJitso&show_icons=true&locale=en&layout=compact" alt="MUNJITSO"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MunJitso" alt="MUNJITSO"/>
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MunJitso&show_icons=true&locale=en&layout=compact" alt="MUNJITSO"/>
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MunJitso"  alt="MUNJITSO"/>
 </p>
 
+<h3 align="left">Support: </h3>
+<a href="https://www.buymeacoffee.com/munjitso"> <img align="left"
+            src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
+            alt="https://www.buymeacoffee.com/munjitso" /></a>
