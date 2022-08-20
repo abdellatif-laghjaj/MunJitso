@@ -12,12 +12,9 @@ Hello I'm 16 yo teen, studying boring stuff at school, that's not I hate learnin
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: living isnt fun.
 <h3 align="left">Stats: </h3>
-<p align="left">
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MunJitso" alt="MUNJITSO"/>
-</p>
-<p align="right">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MunJitso&show_icons=true&locale=en&layout=compact"  alt="MUNJITSO"/>
-</p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MunJitso" alt="MUNJITSO"/>
+img align="center" src="https://github-readme-stats.vercel.app/api?username=MunJitso"  alt="MUNJITSO"/>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MunJitso"  alt="MUNJITSO"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MunJitso&show_icons=true&locale=en&layout=compact"  alt="MUNJITSO"/>
 </p>
+
