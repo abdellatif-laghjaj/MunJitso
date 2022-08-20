@@ -12,5 +12,5 @@ Hello I'm 16 yo teen, studying boring stuff at school, that's not I hate learnin
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: living isnt fun.
 <h3 align="left">Stats: </h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MunJitso)](https://github.com/anuraghazra/github-readme-stats)
-![MunJitso's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=MunJitso&show_icons=true&locale=en&layout=compact)
+<img src ="https://github-readme-stats.vercel.app/api/top-langs?username=MunJitso&show_icons=true&locale=en&layout=compact"/>
+<img src ="https://github-readme-stats.vercel.app/api?username=MunJitso"/>
