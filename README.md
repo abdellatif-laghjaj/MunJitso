@@ -1,3 +1,5 @@
+![](img/camille-villanueva-zsAPsRjzXRI-unsplash.jpg)
+
 ### 2 years of just exploring without making a real projects yaaay
 
 Hello I'm 16 yo teen, studying boring stuff at school, that's not I hate learning, learning is like oxygen ( who calls me nerd is a loser, dieeee ), I like maths, physics, programming(even we dont study it at school which not sucks actually ), so yeah that's what u should know about me.
