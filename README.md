@@ -1,6 +1,6 @@
 ![](img/camille-villanueva-zsAPsRjzXRI-unsplash.jpg)
 <h1 align="center">Hallo, MunJitso is here.</h1>
-<h3 align="center">An ambutious kid about everything related to IT</h3>
+<h3 align="center">An ambitious kid about everything related to IT</h3>
 
 Hello I'm 16 yo teen, studying boring stuff at school, that's not I hate learning, learning is like oxygen ( who calls me nerd is a loser, dieeee ), I like maths, physics, programming(even we dont study it at school which not sucks actually ), so yeah that's what u should know about me.
 
