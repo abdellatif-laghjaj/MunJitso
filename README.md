@@ -21,7 +21,7 @@ Hello I'm 16 yo teen, studying boring stuff at school, that's not I hate learnin
 <h2 align="left">Skills: </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,kotlin,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,kotlin,java" />
   </a>
 </p>
 
