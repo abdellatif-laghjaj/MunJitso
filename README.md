@@ -2,21 +2,13 @@
 <h1 align="center">Hallo, MunJitso is here.</h1>
 <h3 align="center">An ambitious kid about everything related to IT</h3>
 
-Hello I'm 16 yo teen, studying boring stuff at school, that's not I hate learning, learning is like oxygen ( who calls me nerd is a loser, dieeee ), I like maths, physics, programming(even we dont study it at school which not sucks actually ), so yeah that's what u should know about me.
-
-- 🔭 I’m currently working on anything related on java.
-- 🌱 I’m currently learning... hmmm.. JAVA??
-- 👯 I’m looking to collaborate on.. n-nothing yet??
-- 🤔 I’m looking for help in Stackoverflow and i get inspired in github (imagine a person get inspired from a code rather than a the project itself).
-- 📫 How to reach me: u can't LMAO. ( there's a way )
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: living isnt fun.
+Hello I'm 16 yo teen, I use Linux but ofc it doesnt make any difference between a good programmer and bad one. I hate school, indeed, we dont study Computer Science at school, anyway let's hope someone changes the school system, either me or you or whoever is.. I like to program, but I dont know what to program.. lost in hopes.. I also like gaming, Minecraft is my favorite one.
 
 
 <h2 align="left">Stats: </h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&username=MunJitso" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&username=MunJitso" height="150" alt="languages graph"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&username=MunJitso" height="170" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&username=MunJitso" height="170" alt="languages graph"/></p>
 
 <h2 align="left">Skills: </h2>
 <p align="center">
