@@ -15,8 +15,8 @@ Hello I'm 16 yo teen, studying boring stuff at school, that's not I hate learnin
 
 <h2 align="left">Stats: </h2>
 
-<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=MunJitso" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=MunJitso" height="150" alt="languages graph"  />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=MunJitso" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=MunJitso" height="150" alt="languages graph"  /></p>
 
 <h2 align="left">Support: </h2>
 <a href="https://www.buymeacoffee.com/munjitso"> <img align="left"
