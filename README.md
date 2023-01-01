@@ -2,7 +2,7 @@
 <h1 align="center">Hallo, MunJitso is here.</h1>
 <h3 align="center">An ambitious kid about everything related to IT</h3>
 
-Hello I'm 17 yo teen, I use Linux ( okay I was, due to some circumstances, i still use WSL tho ) but ofc it doesnt make any difference between a good programmer and bad one. I like to deal with computers, I broke my old laptop btw ( TPM problems ), so yeah...
+Hello I'm 17 yo teen, I use Linux ( okay I was, due to some circumstances, i still use WSL tho ) but ofc it doesnt make any difference between a good programmer and bad one. I like to deal with computers, I broke my old laptop btw ( TPM problems ), so yeah... I'm currently learning RUST.
 
 
 <h2 align="left">Stats: </h2>
@@ -13,6 +13,6 @@ Hello I'm 17 yo teen, I use Linux ( okay I was, due to some circumstances, i sti
 <h2 align="left">Skills: </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,kotlin,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,kotlin,java,rust" />
   </a>
 </p>
