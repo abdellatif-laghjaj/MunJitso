@@ -1,5 +1,5 @@
 ![](img/camille-villanueva-zsAPsRjzXRI-unsplash.jpg)
-<h1 align="center">Hallo, MunJitso is here.</h1>
+<h1 align="center">Hey! MunJitso is here.</h1>
 <h3 align="center">A 17-year-old individual with a strong ambition for IT and CS.</h3>
 
 ```diff
