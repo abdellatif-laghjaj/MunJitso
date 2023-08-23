@@ -9,7 +9,7 @@
 + 17 years old
 + Rust - Java - Python - Javascript - Bash
 ! live isn't easy.. so throw your exams away and install Gentoo
-# 📖 computer science, and kinda infrastructure digital
+# 📖 Studies at ENSA Kenitra - CP1
 ```
 
 
