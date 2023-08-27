@@ -1,4 +1,4 @@
-![](img/camille-villanueva-zsAPsRjzXRI-unsplash.jpg)
+![]([img/camille-villanueva-zsAPsRjzXRI-unsplash.jpg](https://imgur.com/LnLAn3y))
 <h1 align="center">Hey! MunJitso is here.</h1>
 <h3 align="center">A 17-year-old individual with a strong ambition for IT and CS.</h3>
 
