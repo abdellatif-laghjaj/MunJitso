@@ -5,7 +5,7 @@
 ```diff
 ~/ fetch
 
-@@novice programmer@@
+@@programmer and circuit builder@@
 + 18 years old
 + Rust - Java - Python - Javascript - Bash
 ! live isn't easy.. so throw your exams away and install Gentoo
@@ -15,6 +15,6 @@
 <h2 align="left">Skills: </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,kotlin,java,rust" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,rust,cpp" />
   </a>
 </p>
