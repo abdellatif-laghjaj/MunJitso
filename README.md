@@ -1,6 +1,6 @@
 ![](img/nice.png)
 <h1 align="center">Hey! MunJitso is here.</h1>
-<h3 align="center">An 19-year-old individual with a <s>strong</s> ambition for IT and CS.</h3>
+<h3 align="center">A 19-year-old individual with a <s>strong</s> ambition for IT and CS.</h3>
 
 ```diff
 ~/ fetch
