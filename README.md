@@ -6,7 +6,7 @@
 ~/ fetch
 
 @@programmer and circuit builder@@
-+ 18 years old
++ 19 years old
 + Rust - Java - Python - Javascript - Bash
 ! live isn't easy.. so throw your exams away and install Gentoo
 # 📖 Studies at ENSA Kenitra - CP2
